@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RakeAuthentication", "RakeAuthentication\RakeAuthentication.csproj", "{719E16A6-FCF2-4318-B33F-3822F62E7620}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RakeAuthorizationManager", "RakeAuthorizationManager\RakeAuthorizationManager.csproj", "{09BE2A53-7732-4CDF-8EEF-B67EEFF54EB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockDataExample", "MockDataExample\MockDataExample.csproj", "{EA1FDBE5-47A9-4C29-9315-EBD2E9A826B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{719E16A6-FCF2-4318-B33F-3822F62E7620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{719E16A6-FCF2-4318-B33F-3822F62E7620}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{719E16A6-FCF2-4318-B33F-3822F62E7620}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{719E16A6-FCF2-4318-B33F-3822F62E7620}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09BE2A53-7732-4CDF-8EEF-B67EEFF54EB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09BE2A53-7732-4CDF-8EEF-B67EEFF54EB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09BE2A53-7732-4CDF-8EEF-B67EEFF54EB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09BE2A53-7732-4CDF-8EEF-B67EEFF54EB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA1FDBE5-47A9-4C29-9315-EBD2E9A826B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA1FDBE5-47A9-4C29-9315-EBD2E9A826B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA1FDBE5-47A9-4C29-9315-EBD2E9A826B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA1FDBE5-47A9-4C29-9315-EBD2E9A826B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32CC8233-ADEA-4EC4-A656-9A1C092BDCCC}
+	EndGlobalSection
+EndGlobal

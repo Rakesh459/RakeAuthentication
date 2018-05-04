@@ -53,9 +53,7 @@ namespace MockDataExample
 
         public Student GetStudent(int id)
         {
-    
-           return new MockStudent().GetData<Student>();
-           
+           return GetData<Student>(); 
         }
     }
 

@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RakeAuthorizationManager", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockDataExample", "MockDataExample\MockDataExample.csproj", "{EA1FDBE5-47A9-4C29-9315-EBD2E9A826B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RakeFactoryManagement", "FactoryManagement\RakeFactoryManagement.csproj", "{C68B2886-E4A4-4F7A-833B-186C3E416DB3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{EA1FDBE5-47A9-4C29-9315-EBD2E9A826B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA1FDBE5-47A9-4C29-9315-EBD2E9A826B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA1FDBE5-47A9-4C29-9315-EBD2E9A826B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C68B2886-E4A4-4F7A-833B-186C3E416DB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C68B2886-E4A4-4F7A-833B-186C3E416DB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C68B2886-E4A4-4F7A-833B-186C3E416DB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C68B2886-E4A4-4F7A-833B-186C3E416DB3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
